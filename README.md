@@ -1,3 +1,4 @@
+# 软件以及相关第三方库推荐
 ## 机器学习：
 - python:
   - sklearn库
@@ -36,4 +37,13 @@
 ##GIS分析
 - ArcGis
 
+# 学习材料
+## 机器学习
+- 周志华《机器学习》
+- [吴恩达《机器学习课程》](https://www.bilibili.com/video/BV164411b7dx/?spm_id_from=333.337.search-card.all.click)
 
+## 深度学习
+- [B站李沐视频](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358496)
+- [动手学深度学习](https://zh.d2l.ai/chapter_preface/index.html)
+- [李宏毅深度学习课程](https://www.bilibili.com/video/BV1J94y1f7u5/?spm_id_from=333.337.search-card.all.click)
+- [代码示例等视频](https://space.bilibili.com/18161609/?spm_id_from=333.999.0.0)
