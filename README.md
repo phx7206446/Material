@@ -23,19 +23,22 @@
   - scipy
   - jieba
 
+## 情感分析
+- ROSTCM6 武汉大学开发的
 ## 前端可视化：
 - webstorm软件
 
-##前端框架
+## 前端框架
 - javascript
 - vue
 
-##前端图表
+## 前端图表
 - Echarts
 
 
-##GIS分析
-- ArcGis
+## GIS分析
+- ArcGis 
+- 链接：https://pan.baidu.com/s/1zvJbwr3cJ-xjE0D5yVMLVA 提取码：u5mt
 
 # 学习材料
 ## 机器学习
